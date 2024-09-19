@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swiggy-test</string>
+    <string name="icon_url">https://developer.accuweather.com/sites/default/files/%1d-s.png</string>
+</resources>
